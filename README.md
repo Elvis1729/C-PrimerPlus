@@ -1,2 +1,2 @@
-# C-PrimerPlus
+# CppPrimerPlus
 Learn the book 'C++ Primer Plus'
