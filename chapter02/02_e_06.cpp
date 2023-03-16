@@ -16,4 +16,3 @@ int main()
     cout << light_year << " light years = " << light_year_to_au(light_year) << " astronomical units" << endl;
     return 0;
 }
-
